@@ -1,4 +1,4 @@
-mhctseu.github.com
+HELLO Git
 ==================
 
-page project
+Initial Index page on MarkDown language.
